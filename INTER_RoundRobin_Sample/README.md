@@ -1,0 +1,3 @@
+# Neutron Reflectivity Reference Data Set: INTER
+
+This data set was part of a wider initiative to compare neutron reflectometers world-wide by measuring a round-robin sample of a silicon wafer with a single, unknown layer on top. All details on the data structure and how to process the raw data to obtain a 'fittable' data set is included in [ExPaNDS_NR_datasets_description.docx](https://github.com/DAaaS-reference-data/Reflectivity/blob/main/INTER_RoundRobin_Sample/ExPaNDS_NR_datasets_description.docx).
