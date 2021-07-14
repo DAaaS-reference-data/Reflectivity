@@ -1,6 +1,3 @@
 # Neutron Reflectivity Reference Data Sets
 
-This repository contains a Neutron Reflectivity data set taken on the [OFFSPEC](https://www.isis.stfc.ac.uk/Pages/offspec.aspx) instrument at the [ISIS Neutron and Muon Source](https://www.isis.stfc.ac.uk/) (UK). The OFFSPEC data set represents a published study of the determination of a thin-film structure using Neutron Reflectivity: *ACS Appl. Mater. Interfaces* 2019, 11, 14, 13803–13811 (https://doi.org/10.1021/acsami.9b02700). The purpose of this data sets is to act as reference data set to test and validate Data Analysis as a Service (DAaaS) platforms, for example as part of the [EU ExPaNDS project](https://expands.eu/).
-
-This data set represents a published study of the determination of a thin-film structure using Neutron Reflectivity: *ACS Appl. Mater. Interfaces* 2019, 11, 14, 13803\u201313811 (https://doi.org/10.1021/acsami.9b02700). The raw data is available at https://data.isis.stfc.ac.uk/doi/INVESTIGATION/84794745/. The raw data nexus files, as well as the [original reduced data](https://github.com/DAaaS-reference-data/Reflectivity/blob/Runs_46992_46993_46994_polymer_on_Si.csv) (in .csv format) are both in the data_files folder - this directory includes a Jupyter notebook which explains the scripts used to go from the former to the latter.
-
+This repository contains datasets taken on the [Reflectometry](https://www.isis.stfc.ac.uk/Pages/Reflectometry.aspx) equipment at the [ISIS Neutron and Muon Source](https://www.isis.stfc.ac.uk) (UK).
